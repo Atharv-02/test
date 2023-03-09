@@ -1,0 +1,5 @@
+Unit Tests - done locally
+- local hardhat
+- forked hardhat 
+
+Staging Tests - done on a testnet (LAST STOP!!)   
